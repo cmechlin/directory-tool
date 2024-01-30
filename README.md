@@ -3,13 +3,13 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">File Tool</h3>
+<h3 align="center">Directory Tool</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/cmechlin/File-Tool.svg)](https://github.com/cmechlin/File-Tool/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cmechlin/The-Documentation-Compendium.svg)](https://github.com/cmechlin/File-Tool/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/cmechlin/Directory-Tool.svg)](https://github.com/cmechlin/Directory-Tool/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cmechlin/Directory-Tool.svg)](https://github.com/cmechlin/Directory-Tool/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -102,7 +102,7 @@ Add additional notes about how to deploy this on a live system.
 
 - [@cmechlin](https://github.com/cmechlin) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/cmechlin/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/cmechlin/Directory-Tool/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
